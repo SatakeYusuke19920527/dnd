@@ -6,9 +6,7 @@
 
 .card {
   display: flex;
-  width: 100px;
-  height: 100px;
-  margin: 1em;
+  margin: 2em;
   border: 1px solid #ccc;
   justify-content: center;
   align-items: center;
